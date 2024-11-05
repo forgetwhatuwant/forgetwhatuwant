@@ -62,7 +62,7 @@
 						<p style="margin-top: 0.2em; text-align: center; font-size: 110%; line-height: 1.8; max-width: 800px; margin: 0.2em auto;">
 							<sup>1</sup> BRL; 
 							<sup>2</sup> Zhejiang University;
-							<sup>3</sup> Zhejiang Institute of Technology; 
+							<sup>3</sup> Zhejiang Sci-Tech University; 
 
 						</p>											
 						
@@ -171,7 +171,7 @@
 						<hr style="margin-top: 0em;">
 						<h3 style="margin-bottom: 0.5em; color: #1E3A8A;">Physical prototypes of Fast-UMI system</h3>
 						<span class="figure" style="margin-top: 1em; margin-bottom: 0;">
-							<img src="images/fastumi.jpg" width="100%" style="margin-top: 1em;" alt="" />
+							<img src="images/uspi.png" width="100%" style="margin-top: 1em;" alt="" />
 						</span>						
 						<br>
 						<br>
@@ -179,10 +179,10 @@
 						<hr style="margin-top: 0em;">
 						<h3 style="margin-bottom: 0.5em; color: #1E3A8A; font-size: 130%;">Project Overview</h3>
 						<p class="paper-paragraph" align="justify">
-							The Strawberry Picking Interface, developed by UMI at Stanford, is an innovative tool designed to enhance the efficiency and enjoyment of strawberry harvesting. This interface utilizes a combination of advanced robotics and artificial intelligence to streamline the picking process. <em style="font-weight: bold;">UPIS</em>, an interface-mediated manipulation system comprising two key components: a <em style="font-weight: bold;">handheld device</em> operated by humans for data collection and a <em style="font-weight: bold;">robot-mounted device</em> used during policy inference. 
+							The Strawberry Picking Interface, is an innovative tool designed to enhance the efficiency and enjoyment of strawberry harvesting. This interface utilizes a combination of advanced robotics and artificial intelligence to streamline the picking process. <em style="font-weight: bold;">USPI</em>, an interface-mediated manipulation system comprising two key components: a <em style="font-weight: bold;">handheld device</em> operated by humans for data collection and a <em style="font-weight: bold;">robot-mounted device</em> used during policy inference. 
 							Our approach employs a decoupled design compatible with a wide range of grippers while maintaining consistent observation perspectives, allowing models trained on handheld-collected data to be directly applied to real robots. 
 							By directly obtaining the end-effector pose using existing commercial hardware products, we eliminate the need for complex SLAM deployment and calibration, streamlining data processing. 
-							UPIS provides supporting software tools for efficient robot learning data collection and conversion, facilitating rapid, plug-and-play functionality. 
+							USPI provides supporting software tools for efficient robot learning data collection and conversion, facilitating rapid, plug-and-play functionality. 
 							<em style="font-weight: bold;">This system offers an efficient and user-friendly tool for robotic learning data acquisition.</em>
 							<!-- Supplementary materials for this work (including hardware CAD models, experimental scripts, demo data, etc.) can be found in <a href="https://drive.google.com/drive/folders/1GvLQ8oS7uJB4aZ4oWQpXNzOw_KFDwJQ8?usp=sharing">Google drive for Fast-UMI</a>. -->
 						</p>
@@ -205,25 +205,25 @@
 						<br>
 						<span class="figure" style="margin-top: 0.1em; margin-bottom: 0;">
 							<img src="images/observation.png" width="100%" margin-top="0.5em" alt="" />
-							<div style="margin-bottom: 1.5em; text-align: center;">The views captured by the Intel D435i cameras on the handheld device and the robot-mounted device, respectively, with the red dashed line indicating the ends of the fingertips.</div>
+							<div style="margin-bottom: 1.5em; text-align: center;">The views captured by the Intel D435i cameras on the handheld device and the robot-mounted device, respectively, with the colored dashed line indicating the ends of the fingertips.</div>
 						</span>
 
 						<hr style="margin-top: 0em;">
-						<h3 style="margin-bottom: 0.5em; color: #1E3A8A; font-size: 130%;">RealSense T265 trajectory accuracy</h3>
+						<h3 style="margin-bottom: 0.5em; color: #1E3A8A; font-size: 130%;">RealSense D435i trajectory accuracy</h3>
 
 						<p class="paper-paragraph" align="justify"></p>
-						The T265 trajectory demonstrates an average positional error of <em style="font-weight: bold;">0.0237</em> m.
-						While the T265 sensor provides reasonably accurate pose estimation suitable for many robotic manipulation tasks, inherent biases and variances exist that should be accounted for in precision-critical applications.
+						The D435i trajectory demonstrates an average positional error of <em style="font-weight: bold;">0.0237</em> m.
+						While the D435i sensor provides reasonably accurate pose estimation suitable for many robotic manipulation tasks, inherent biases and variances exist that should be accounted for in precision-critical applications.
 						</p>
 
 						<br>
 
 						<span class="figure" style="margin-top: 0.1em; margin-bottom: 0;">
 							<img src="images/offset.png" width="100%" margin-top="0.5em" alt="" />
-							<div style="margin-bottom: 1.5em; text-align: center;">Evaluation of the <i>RealSense T265</i> trajectory accuracy compared to motion capture (MoCap) ground truth data. 
+							<div style="margin-bottom: 1.5em; text-align: center;">Evaluation of the <i>Intel D435i</i> trajectory accuracy compared to motion capture (MoCap) ground truth data. 
 								<br>
-								(a) Spatial trajectories along three axes: T265 measurements (red lines) and MoCap ground truth (green lines). 
-								(b) Positional errors of the T265 sensor relative to MoCap along the three axes.</div>
+								(a) Spatial trajectories along three axes: D435i measurements (red lines) and MoCap ground truth (green lines). 
+								(b) Positional errors of the D435i sensor relative to MoCap along the three axes.</div>
 						</span>
 
 						<hr style="margin-top: 0em;">

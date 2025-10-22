@@ -1,21 +1,29 @@
-# Hi, I'm <LinshengHou>! 👋
+# Hi, I'm Linsheng Hou! 👋
 
 I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Robotics science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![forgetwhatuwant's Stats](https://github-readme-stats.vercel.app/api?username=forgetwhatuwant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working at HIC.
-- 🌐 Proud contributor of huggingface/lerobot.
+- 🌐 **Contributor to [huggingface/lerobot](https://github.com/huggingface/lerobot)**.
+
+[![LeRobot - GitHub Stars](https://img.shields.io/github/stars/huggingface/lerobot?label=lerobot%20stars&style=social)](https://github.com/huggingface/lerobot)
 
 ## 🌱 Currently Exploring
-- world model for robotics
+- World models for robotics
 
 
 
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## 🔧 Tech Stack
+[![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,ros,cpp,linux,docker,git,github)](https://skillicons.dev)
+
+## 🔗 Links
+- Website: https://forgetwhatuwant.github.io
+
+Thanks for stopping by! Let's explore the fascinating world of robotics together. 🚀
 
 
 

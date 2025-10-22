@@ -22,6 +22,9 @@ I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity fo
 ## 🔧 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,ros,cpp,linux,docker,git,github)](https://skillicons.dev)
 
+## 📄 Publications
+- Strawberry Robotic Operation Interface: An Open-Source Device for Collecting Dexterous Manipulation Data in Robotic Strawberry Farming. [arXiv](https://arxiv.org/html/2501.16717v1) · [Code & Data](https://github.com/AgRoboticsResearch/SROI)
+
 Thanks for stopping by! Let's explore the fascinating world of robotics together. 🚀
 
 

@@ -2,7 +2,14 @@
 
 I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Robotics science, exploring new ideas, and sharing my insights with the community.
 
-![forgetwhatuwant's Stats](https://github-readme-stats.vercel.app/api?username=forgetwhatuwant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=forgetwhatuwant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forgetwhatuwant&theme=vue-dark&hide_border=true" height="160" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=forgetwhatuwant&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
 
 ## 🚀 About Me
 

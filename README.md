@@ -11,17 +11,16 @@ I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity fo
 
 [![LeRobot - GitHub Stars](https://img.shields.io/github/stars/huggingface/lerobot?label=lerobot%20stars&style=social)](https://github.com/huggingface/lerobot)
 
+## 🧩 LeRobot Contributions
+- PRs: [authored pull requests](https://github.com/huggingface/lerobot/pulls?q=is%3Apr+author%3Aforgetwhatuwant)
+- Commits: [commits by me](https://github.com/huggingface/lerobot/commits?author=forgetwhatuwant)
+- Focus areas: data collection tooling, training pipelines, documentation
+
 ## 🌱 Currently Exploring
 - World models for robotics
 
-
-
-
 ## 🔧 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,ros,cpp,linux,docker,git,github)](https://skillicons.dev)
-
-## 🔗 Links
-- Website: https://forgetwhatuwant.github.io
 
 Thanks for stopping by! Let's explore the fascinating world of robotics together. 🚀
 

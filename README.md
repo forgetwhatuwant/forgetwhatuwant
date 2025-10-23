@@ -2,14 +2,17 @@
 
 I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Robotics science, exploring new ideas, and sharing my insights with the community.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forgetwhatuwant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forgetwhatuwant&theme=vue-dark&hide_border=true" height="160" />
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=forgetwhatuwant&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="forgetwhatuwant's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=forgetwhatuwant&theme=transparent&count_private=true&border_radius=10&locale=en" alt="forgetwhatuwant's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=forgetwhatuwant&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="forgetwhatuwant's Most Used Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=forgetwhatuwant&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" />
-</p>
+<hr>
 
 ## 🚀 About Me
 
@@ -23,8 +26,6 @@ I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity fo
 - Commits: [commits by me](https://github.com/huggingface/lerobot/commits?author=forgetwhatuwant)
 - Focus areas: data collection tooling, training pipelines, documentation
 
-## 🌱 Currently Exploring
-- World models for robotics
 
 ## 🔧 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,ros,cpp,linux,docker,git,github)](https://skillicons.dev)
@@ -34,6 +35,17 @@ I am a passionate Robotics engineer graduated from ZJU, driven by a curiosity fo
 
 Thanks for stopping by! Let's explore the fascinating world of robotics together. 🚀
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forgetwhatuwant/forgetwhatuwant/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forgetwhatuwant/forgetwhatuwant/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/forgetwhatuwant/forgetwhatuwant/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 
 <!--
